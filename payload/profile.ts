@@ -41,7 +41,7 @@ const profile: IProfile.Payload = {
     // },
   ],
   notice: {
-    title: "언제든지 연락주시면 빠르게 답변드리겠습니다.",
+    title: '언제든지 연락주시면 빠르게 답변드리겠습니다.',
     icon: faBell,
   },
 };
